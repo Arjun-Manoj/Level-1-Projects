@@ -1,0 +1,21 @@
+html{
+	background-color: black;
+}
+h1{
+	text-align: center;
+	color:yellow;
+	background-color: green;
+	font-size: 40px;
+}
+p{
+	text-align: center;
+	color:red;
+}
+h2{
+	color:red;
+	font-size:20px;
+}
+ol{
+	color:green;
+	font-size:20px;
+}
